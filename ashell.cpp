@@ -370,7 +370,7 @@ int main(int argc, char *argv[])
 				  //ffstreaminpRight[0] 
 				}
                 
-                /////////////////JASON ATTEMPt >
+                
                 
                 
                 
@@ -378,7 +378,7 @@ int main(int argc, char *argv[])
                 
                 int status;
                 int fd[inpPipe.size() * 2];//Tevin Youn
-//Jason Hui 913362314
+//Jason Hui
 #include <iostream>
 #include <unistd.h>
 #include <stdio.h>
