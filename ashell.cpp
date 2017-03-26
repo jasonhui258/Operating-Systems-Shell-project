@@ -1,5 +1,5 @@
 //Tevin Youn
-//Jason Hui 913362314
+//Jason Hui
 #include <iostream>
 #include <unistd.h>
 #include <stdio.h>
